@@ -1,0 +1,241 @@
+.top-banner {
+  background-image: url("assets/bg-image.png");
+  text-align: center;
+  height: 150px;
+  color: white;
+  padding-top: 20px;
+}
+
+.findgift {
+  align-items: center;
+  background-color: white;
+  display: inline-block;
+  margin-top: 20px;
+  width: 100%;
+  padding-bottom: 10px;
+}
+
+.ipad, .wristwatch, .laptop, .dog {
+  display: inline-block;
+  height: 2px;
+  margin-left: 15px;
+}
+
+.gaming_acessories {
+  position: relative;
+    display: inline-block;
+  margin-left: 18px;
+  box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+  transform: translateY(-5px);
+  margin-top: 30px;
+  padding-left: 25px;
+  padding-right: 25px;
+  width: 20%;
+  height: 460px;
+}
+
+.holiday_gifts {
+  position: relative;
+
+  display: inline-block;
+  margin-left: 20px;
+  box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+  width: 20%;
+  height: 460px;
+  margin-left: 18px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.comfy-style {
+
+  height: 460px;
+  position: relative;
+  display: inline-block;
+  box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+  width: 20%;
+  margin-left: 18px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.add_joy {
+
+  display: inline-block;
+  margin-left: 18px;
+  text-align: ;
+  box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+  width: 20%;
+  height: 460px;
+  padding-left: 25px;
+  padding-right: 25px;
+  position: relative;
+}
+
+.col-img {
+  height: 330px;
+  width: 330px;
+  border-radius: 50px;
+  margin-left: 20px;
+}
+
+.shop_gaming {
+  text-align: center;
+  padding-top: 30px;
+
+}
+
+.sound_accessories {
+  text-align: center;
+  padding-top: 30px;
+
+}
+
+.col_img {
+  height: 450px;
+  width: 100%;
+}
+
+a {
+  color: skyblue;
+  text-decoration: none;
+}
+
+/*GAME ACCESSORIES*/
+.headsets {
+  position: absolute;
+  left: 35px;
+}
+
+.keyboards {
+  position: absolute;
+  right: 35px;
+}
+
+.computer_mice {
+  position: absolute;
+  bottom: 100px;
+  left: 35px;
+}
+
+.chairs {
+  position: absolute;
+  bottom: 100px;
+  right: 35px;
+}
+
+/*Comfy styles*/
+.sweatshirts {
+  position: absolute;
+  left: 35px;
+}
+
+.joggers {
+  position: absolute;
+  right: 35px;
+}
+
+.cardigans {
+  position: absolute;
+  bottom: 100px;
+  left: 35px;
+}
+
+.Easytees {
+  position: absolute;
+  bottom: 100px;
+  right: 35px;
+}
+
+.img1 {
+  width: 130px;
+  height: 120px;
+}
+
+/*Holiday gifts*/
+.Electronics {
+  position: absolute;
+  left: 35px;
+}
+
+.Fashion {
+  position: absolute;
+  right: 35px;
+}
+
+.toys {
+  position: absolute;
+  bottom: 100px;
+  left: 35px;
+}
+
+.beauty {
+  position: absolute;
+  bottom: 100px;
+  right: 35px;
+}
+
+/*add joy to their wishlist*/
+.holidaytoylist {
+  position: absolute;
+  left: 35px;
+}
+
+.Electronicgifts {
+  position: absolute;
+  right: 35px;
+}
+
+.homegifts {
+  position: absolute;
+  bottom: 100px;
+  left: 35px;
+}
+
+.fashiongifts {
+  position: absolute;
+  bottom: 100px;
+  right: 35px;
+}
+
+.back2top{
+  background-color: #3B4656;
+  height: 40px;
+  text-align: center;
+  margin-top: 40px;
+
+}
+
+.amazonlogo{
+
+  height: 150px;
+  width: 100%;
+  background-color: #27374F;
+  align-content: center;
+
+}
+
+span .top{
+  color: white;
+  text-decoration: underline;
+}
+
+.bottomlogo{
+  height: 43%;
+  padding-left: 45%;
+  padding-top: 40px;
+}
+
+h5{
+  margin: 0;
+}
+
+h6{
+  position: absolute;
+  text-align:left;
+  bottom: 2px;
+}
+
+h3{
+  margin: 0;
+}
